@@ -1,0 +1,32 @@
+{
+  "version": "3.94.33593.0",
+  "course_id": "6V0OWhRcfu6",
+  "title": "Drop Down cognitive Load 1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6HKfLis7qFT",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6T8Vc8cOxU1",
+      "title": "Choose the correct definition from the drop-down menu",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
